@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sabihazaman/Projects/Practise_BOIIII/Practise_BOIIII/Practise_BOIIII.csproj": {}
+  },
+  "projects": {
+    "/Users/sabihazaman/Projects/Practise_BOIIII/Practise_BOIIII/Practise_BOIIII.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sabihazaman/Projects/Practise_BOIIII/Practise_BOIIII/Practise_BOIIII.csproj",
+        "projectName": "Practise_BOIIII",
+        "projectPath": "/Users/sabihazaman/Projects/Practise_BOIIII/Practise_BOIIII/Practise_BOIIII.csproj",
+        "packagesPath": "/Users/sabihazaman/.nuget/packages/",
+        "outputPath": "/Users/sabihazaman/Projects/Practise_BOIIII/Practise_BOIIII/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sabihazaman/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
